@@ -8,7 +8,7 @@ DiscoraFramework is the official open-source organization behind **Discora**, a 
 ## 📌 About Discora  
 Discora simplifies Discord bot development by handling commands, events, and interactions efficiently, allowing developers to focus on creating great features.  
 
-### 🌟 Features:  
+**🌟 Features:**  
 - 🛠 **Simplified Command & Event Handling**  
 - 🔄 **Support for Slash Commands, Buttons, and More**  
 - 📦 **TypeScript & Node.js Support**  

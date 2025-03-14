@@ -26,8 +26,10 @@ We welcome contributions! Check out our repositories, report issues, or submit p
 
 🔗 **Repository:** [github.com/DiscoraFramework/discora](https://github.com/DiscoraFramework/discora)  
 
-> [!note]
-> 💙 Built by the community, for the community. 
+
+
+ 
+ 💙 Built by the community, for the community. 
 
 
 

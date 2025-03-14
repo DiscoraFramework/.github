@@ -16,6 +16,7 @@ Discora simplifies Discord bot development by handling commands, events, and int
 
 ## 📜 Get Started  
 Install Discora using npm:  
+
 ```sh
 npm install discora
 ```

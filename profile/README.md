@@ -1,8 +1,7 @@
 ## The Open-Source Organization for the Discora Framework 
 
 
-Discora simplifies Discord bot development by handling commands, events, and interactions efficiently, allowing developers to focus on creating great features. It has been **proven in production**, ensuring reliability and performance. As part of this, an existing Discord bot will be rewritten using Discora to further refine and enhance the framework.  
-
+Discora makes Discord bot development easier by handling commands, events, and interactions efficiently. It has been proven in production, ensuring reliability and performance. To further improve the framework, an existing Discord bot will be rewritten using Discora.  
 
 ## 🌟 Features: 
 - 🛠 **Simplified Command & Event Handling**  

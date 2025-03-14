@@ -10,6 +10,7 @@ Discora makes Discord bot development easier by handling commands, events, and i
 - 🧩 **Modular and Extensible**  
 
 ## 📜 Get Started  
+
 Install Discora using npm:  
 
 ```sh
@@ -24,11 +25,6 @@ npx create-discora@latest
 We welcome contributions! Check out our repositories, report issues, or submit pull requests to help improve Discora.  
 
 🔗 **Repository:** [github.com/DiscoraFramework/discora](https://github.com/DiscoraFramework/discora)  
-
-
-
- 
- 💙 Built by the community, for the community. 
 
 
 
